@@ -1,4 +1,6 @@
-# Hi, I am a programmer!
+# It may have escaped your notice, but life isn't fair - Severus Snape
+
+### Hi, I am a programmer!
 
   - I do Elixir, Ruby and JS.
   - In my free times, I watch
