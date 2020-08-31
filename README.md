@@ -15,3 +15,5 @@
   - I mostly hear Vital Signs
   
  If you got any issue with all above, then who cares :D Cheers
+
+<img align="left" alt="Junaid's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ijunaid8989&show_icons=true&theme=vue" />
