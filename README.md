@@ -16,4 +16,4 @@
   
  If you got any issue with all above, then who cares :D Cheers
 
-<img align="left" alt="Junaid's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ijunaid8989&show_icons=true&theme=vue" />
+![Metrics](https://metrics.lecoq.io/ijunaid8989?template=classic&followup=1&languages=1&config.timezone=Asia%2FKarachi)
