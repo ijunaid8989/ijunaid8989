@@ -15,5 +15,3 @@
   - I mostly hear Vital Signs
   
  If you got any issue with all above, then who cares :D Cheers
-
-![Metrics](https://metrics.lecoq.io/ijunaid8989?template=classic&followup=1&languages=1&config.timezone=Asia%2FKarachi)
