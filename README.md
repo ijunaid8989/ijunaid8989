@@ -10,7 +10,7 @@
     4. Anand or any movie by Rajesh Khana.
     5. Modern Family
     6. Ronnie o'Sullivan
-  - Ashfaq Ahmad is my ideal.
+  - **Ashfaq Ahmad** is my ideal for infinite reasons.
   - I like Dave Thomas in programming world
   - I mostly hear Vital Signs
   
