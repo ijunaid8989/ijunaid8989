@@ -2,14 +2,14 @@
 
 ### Hi, I am a programmer!
 
-  - I do Elixir, Ruby and JS.
+  - I do Elixir, JS.
   - In my free times, I watch
     1. Harry Potter
     2. The Fisher King
     3. Manchester by the Sea
     4. Anand or any movie by Rajesh Khana.
     5. Modern Family
-    6. Ronnie o'Sullivan
+    6. Ronnie o'Sullivan (7 Times World Snooker Champion)
   - **Ashfaq Ahmad** is my ideal for infinite reasons.
   - I like Dave Thomas in programming world
   - I mostly hear Vital Signs
