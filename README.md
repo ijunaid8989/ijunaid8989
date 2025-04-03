@@ -30,8 +30,4 @@ Yeah, I have done a few things, just don't want to brag about it, you know!?
 
 Currently, I am working in Elixir, Phoenix / Ruby and VueJS, NustJs, AWS Servies, Seaweedfs, RAID stuff, NewRelic, and MERN Stack. I don't like Angular, so :)
 
-If you are looking for my CV then here it is:
-
-https://docs.google.com/document/d/1LoeBKAiLjcqkXl8h0jO-MPKPrS02vwDQ/edit?usp=sharing&ouid=110643952437670268189&rtpof=true&sd=true
-
 If you want to talk, book a meeting with me, https://calendly.com/ijunaidfarooq
