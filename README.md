@@ -1,33 +1,38 @@
 # It may have escaped your notice, but life isn't fair - Severus Snape
 
-### Hi, I am a programmer!
 
-  - I do Elixir, JS.
-  - In my free times, I watch
-    1. Harry Potter
-    2. The Fisher King
-    3. Manchester by the Sea
-    4. Anand or any movie by Rajesh Khana.
-    5. Modern Family
-    6. Ronnie o'Sullivan (7 Times World Snooker Champion)
-  - **Ashfaq Ahmad** is my ideal for infinite reasons.
-  - I like Dave Thomas in programming world
-  - I mostly hear Vital Signs
-  
- If you got any issue with all above, then who cares :D Cheers
- 
- You can call me a Full Stack Programmer, 
+I’m **Junaid Farooq**, a **Senior Software Consultant** with **9+ years of experience** building and scaling backend, distributed, and event-driven systems across **healthcare, fintech, communications, and consumer platforms**.
 
-1. who has been involved in the early years of Evercam.io when we were migrating from Sinatra to Phoenix (Ruby to Elixir, 2016 to 2021 mainly then bits and pieces), also migrated the ruby on rails applications to VueJS
+My core expertise is in **Elixir, Phoenix, and Phoenix LiveView**, where I design systems that prioritize **correctness, scalability, reliability, and long-term maintainability**. I’ve worked with early-stage startups and scaled products alike, owning systems from **architecture and domain modeling** to **production support in high-traffic environments**.
 
-2. as well as Integration of Meddy and Helium Health (Yes, no need to stand up but I built the backend for that.) (https://techcrunch.com/2021/11/10/nigerias-helium-health-acquires-uaes-meddy-in-rare-africa-gcc-deal/),
+### What I specialize in:
 
-3. not only that, but I also build the core Ruby on Rails Application for EOT (https://github.com/EyesOfThings/Mobile_Camera_Demonstrator), Eyes of Things, (https://eyesofthings.eu/?page_id=228).
+* **Elixir & Phoenix** backend systems (REST, GraphQL, LiveView)
+* **Distributed systems** and **event-driven architectures**
+* **RabbitMQ** (publishers, consumers, retries, DLQs, idempotency)
+* **Payments, billing, ledger-style systems**, and financial workflows
+* **Form builders** with versioning, validations, and dynamic schemas
+* **Notification systems** (email, SMS, async pipelines)
+* **Elasticsearch & OpenSearch** for fast, structured, and pattern-based search
+* **Slack & Telegram bot development**, including webhooks and APIs
+* **PostgreSQL, ClickHouse**, and data-heavy reporting systems
+* Production debugging, performance tuning, and observability
 
-4. besides all the above, I also wrote an article on Elixir Hot code Upgrades, ( Harry Potter Addition ) https://medium.com/@junaid_16874/hot-upgrades-whaaaaaaaat-29bad102795e
+### Career highlights:
 
-Yeah, I have done a few things, just don't want to brag about it, you know!?
+* Led and contributed to **large-scale healthcare platforms**, including backend systems used by hospitals and clinics
+* Built and maintained **fintech systems** involving wallets, payments, credits, and reporting
+* Migrated **monolithic systems to microservices** and event-driven architectures
+* Designed and operated **high-throughput message pipelines** using RabbitMQ and Broadway
+* Implemented **Hot Code Upgrades** in Elixir (published technical article)
+* Worked extensively with **AWS**, physical servers, monitoring, and storage systems
 
-Currently, I am working in Elixir, Phoenix / Ruby and VueJS, NustJs, AWS Servies, Seaweedfs, RAID stuff, NewRelic, and MERN Stack. I don't like Angular, so :)
+### How I work:
 
-If you want to talk, book a meeting with me, https://calendly.com/ijunaidfarooq
+I prefer **domain-driven design** over CRUD-heavy architectures, and I take full ownership of systems — from understanding business problems to delivering reliable production solutions. I enjoy working on **hard problems**, mentoring engineers, and improving engineering standards within teams.
+
+### Current focus:
+
+Elixir, Phoenix, Phoenix LiveView, RabbitMQ, distributed systems, backend architecture, and high-impact product engineering.
+
+📩 If you’re looking for a **senior Elixir consultant**, backend architect, or someone to help stabilize and scale complex systems, feel free to reach out.
