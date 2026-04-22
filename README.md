@@ -3,11 +3,11 @@
 
 I’m **Junaid Farooq**, a **Senior Software Consultant** with **9+ years of experience** building and scaling backend, distributed, and event-driven systems across **healthcare, fintech, communications, and consumer platforms**.
 
-My core expertise is in **Elixir, Phoenix, and Phoenix LiveView**, where I design systems that prioritize **correctness, scalability, reliability, and long-term maintainability**. I’ve worked with early-stage startups and scaled products alike, owning systems from **architecture and domain modeling** to **production support in high-traffic environments**.
+My core expertise is in **Nodejs, Elixir, Phoenix, and Phoenix LiveView**, where I design systems that prioritize **correctness, scalability, reliability, and long-term maintainability**. I’ve worked with early-stage startups and scaled products alike, owning systems from **architecture and domain modeling** to **production support in high-traffic environments**.
 
 ### What I specialize in:
 
-* **Elixir & Phoenix** backend systems (REST, GraphQL, LiveView)
+* **Nodejs, Elixir & Phoenix** backend systems (REST, GraphQL, LiveView)
 * **Distributed systems** and **event-driven architectures**
 * **RabbitMQ** (publishers, consumers, retries, DLQs, idempotency)
 * **Payments, billing, ledger-style systems**, and financial workflows
@@ -33,6 +33,6 @@ I prefer **domain-driven design** over CRUD-heavy architectures, and I take full
 
 ### Current focus:
 
-Elixir, Phoenix, Phoenix LiveView, RabbitMQ, distributed systems, backend architecture, and high-impact product engineering.
+Nodejs, Elixir, Phoenix, Phoenix LiveView, RabbitMQ, distributed systems, backend architecture, and high-impact product engineering.
 
-📩 If you’re looking for a **senior Elixir consultant**, backend architect, or someone to help stabilize and scale complex systems, feel free to reach out.
+📩 If you’re looking for a **senior Elixir/Nodejs consultant**, backend architect, or someone to help stabilize and scale complex systems, feel free to reach out.
